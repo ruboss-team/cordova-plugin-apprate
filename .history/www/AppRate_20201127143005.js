@@ -269,7 +269,7 @@ var AppRate = (function () {
     }
   }
 
-  AppRate.isNativeReviewAvailable = function () {
+  AppRate.navitePomptAvailable = function () {
     return isNativePromptAvailable;
   };
 
